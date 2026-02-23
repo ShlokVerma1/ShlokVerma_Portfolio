@@ -84,11 +84,7 @@ export default function Navbar() {
           }}
             onMouseEnter={e=>e.currentTarget.style.boxShadow='0 0 28px rgba(59,130,246,.55)'}
             onMouseLeave={e=>e.currentTarget.style.boxShadow='0 2px 16px rgba(59,130,246,.25)'}
-<<<<<<< HEAD
-          >Hire Me</a>
-=======
           >Work With Me</a>
->>>>>>> 4bd079e (revised version)
 
           {/* Hamburger */}
           <button onClick={()=>setOpen(!open)} style={{background:'none',border:'none',padding:'.4rem',display:'flex',flexDirection:'column',gap:'5px'}}>
@@ -117,11 +113,7 @@ export default function Navbar() {
                 <a href="#contact" onClick={()=>setOpen(false)}
                   style={{padding:'.8rem',borderRadius:'999px',textAlign:'center',
                     background:'linear-gradient(135deg,#3b82f6,#7c3aed)',color:'#fff',textDecoration:'none',fontWeight:500}}>
-<<<<<<< HEAD
-                  Hire Me
-=======
                   Work With Me
->>>>>>> 4bd079e (revised version)
                 </a>
               </div>
             </motion.div>

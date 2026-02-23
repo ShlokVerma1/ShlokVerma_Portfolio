@@ -46,11 +46,7 @@ export default function HeroSection() {
   }, [])
 
   const stats = [
-<<<<<<< HEAD
-    { v:'17+', l:'GitHub Repos' },
-=======
     { v:'17+', l:'Projects' },
->>>>>>> 4bd079e (revised version)
     { v:'4', l:'Live Projects' },
     { v:'4×', l:'Certified' },
     { v:'IIT', l:'Techfest' },

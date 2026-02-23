@@ -45,21 +45,6 @@ export default function AboutSection() {
             </motion.div>
             <motion.h2 variants={it} style={{ fontFamily:'Syne,sans-serif', fontWeight:800,
               fontSize:'clamp(1.8rem,4vw,2.8rem)', lineHeight:1.15, color:'#e2e8f0', marginBottom:'1.25rem' }}>
-<<<<<<< HEAD
-              CS grad turning passion into{' '}<span className="grad">real products</span>
-            </motion.h2>
-            <motion.p variants={it} style={{ color:'#64748b', fontSize:'1rem', lineHeight:1.8, marginBottom:'1rem' }}>
-              I'm Shlok — a CS engineer from Delhi with a B.Tech from Galgotias University (2024). 
-              I specialize in Python/Flask backends, AI model integration, and full-stack web apps. 
-              Instead of jumping into a 9-to-5 after graduation, I chose to freelance and build my own products — 
-              funding my goal to study abroad.
-            </motion.p>
-            <motion.p variants={it} style={{ color:'#64748b', fontSize:'1rem', lineHeight:1.8, marginBottom:'1.75rem' }}>
-              I've shipped a Netflix-style full-stack app (StressFlix), a JWT SaaS auth server, 
-              an NEAT-powered AI game agent, and multiple frontend tools — all live, all real. 
-              I've competed at IIT Bombay Techfest, won an AI challenge at IFERP LJ University, 
-              and hold 4 industry certifications from AWS, Oracle, and UC Santa Cruz.
-=======
               Engineer by degree. Builder by {' '}<span className="grad">obsession.</span>
             </motion.h2>
             <motion.p variants={it} style={{ color:'#64748b', fontSize:'1rem', lineHeight:1.8, marginBottom:'1rem' }}>
@@ -67,7 +52,6 @@ export default function AboutSection() {
             </motion.p>
             <motion.p variants={it} style={{ color:'#64748b', fontSize:'1rem', lineHeight:1.8, marginBottom:'1.75rem' }}>
               I've shipped a Netflix-style full-stack app (StressFlix), a JWT SaaS auth server, a NEAT-powered AI game agent, and multiple frontend tools. I've competed at IIT Bombay Techfest, won an AI challenge at IFERP LJ University, and hold 4 industry certifications from AWS, Oracle, and UC Santa Cruz.
->>>>>>> 4bd079e (revised version)
             </motion.p>
 
             {/* Tags */}
