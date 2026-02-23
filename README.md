@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# ShlokVerma_Portfolio
+=======
+>>>>>>> 4bd079e (revised version)
 # Shlok Verma — Portfolio v2
 
 > AI & Backend Developer · Bangalore, India  
@@ -92,3 +98,7 @@ auth.shlokverma.dev     → DevSecureAuth JWT SaaS
 ```
 
 **Buy:** Namecheap (~₹800/yr) · **Deploy:** Vercel (free tier)
+<<<<<<< HEAD
+=======
+>>>>>>> ece08c0 (interactive design)
+>>>>>>> 4bd079e (revised version)
