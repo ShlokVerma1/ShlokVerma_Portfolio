@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-# ShlokVerma_Portfolio
-=======
->>>>>>> 4bd079e (revised version)
 # Shlok Verma — Portfolio v2
 
 > AI & Backend Developer · Bangalore, India  
