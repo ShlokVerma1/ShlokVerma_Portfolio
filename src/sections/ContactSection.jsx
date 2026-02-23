@@ -120,11 +120,7 @@ export default function ContactSection() {
               ) : (
                 <form key="form" onSubmit={onSub} style={{display:'flex',flexDirection:'column',gap:'1.1rem'}}>
                   <div style={{display:'grid',gap:'1.1rem',gridTemplateColumns:'1fr 1fr'}}>
-<<<<<<< HEAD
-                    {[['name','Your Name','text','Priya Sharma'],['email','Email','email','priya@startup.io']].map(([n,l,t,p])=>(
-=======
                     {[['name','Your Name','text','Your Name'],['email','Email','email','example@gmail.com']].map(([n,l,t,p])=>(
->>>>>>> 4bd079e (revised version)
                       <div key={n}>
                         <label style={lbl}>{l}</label>
                         <input type={t} name={n} required placeholder={p} value={form[n]} onChange={oc}
