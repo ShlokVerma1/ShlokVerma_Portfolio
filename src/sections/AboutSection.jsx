@@ -126,7 +126,7 @@ export default function AboutSection() {
                   >
                     <div style={{ display:'flex', alignItems:'center', gap:'.5rem', marginBottom:'.15rem' }}>
                       <span>{t.i}</span>
-                      <span style={{ fontFamily:'JetBrains Mono,monospace', fontSize:'.6rem', color:t.c }}>{t.y}</span>
+                      <span style={{ fontFamily:'JetBrains Mono,monospace', fontSize:'.7rem', color:t.c }}>{t.y}</span>
                       <span style={{ fontFamily:'Syne,sans-serif', fontWeight:700, fontSize:'.88rem', color:'#e2e8f0' }}>{t.t}</span>
                     </div>
                     <p style={{ fontFamily:'JetBrains Mono,monospace', fontSize:'.62rem', color:'#475569', marginLeft:'1.5rem' }}>{t.s}</p>

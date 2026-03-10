@@ -44,7 +44,7 @@ export default function HeroSection() {
     }, ref)
     return () => ctx.revert()
   }, [])
-
+  const article = /^[aeiou]/i.test(ROLES[roleIdx]) ? 'an' : 'a'
   const stats = [
     { v:'17+', l:'Projects' },
     { v:'4', l:'Live Projects' },
@@ -145,12 +145,11 @@ export default function HeroSection() {
             Shlok Verma
           </h1>
         </div>
-
         {/* Typewriter role */}
         <div className="hl" style={{marginBottom:'1.75rem',minHeight:'2.5rem'}}>
           <span style={{fontFamily:'Syne,sans-serif',fontWeight:700,
             fontSize:'clamp(1.2rem,3.5vw,2.2rem)',color:'rgba(226,232,240,.5)'}}>
-            I'm a{' '}
+            I'm {article}{' '}
           </span>
           <span className="grad" style={{fontFamily:'Syne,sans-serif',fontWeight:700,
             fontSize:'clamp(1.2rem,3.5vw,2.2rem)'}}>
