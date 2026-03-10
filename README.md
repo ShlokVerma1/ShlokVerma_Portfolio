@@ -82,17 +82,3 @@ src/
 - **Email** → search `vermaslok.k@gmail.com`
 - **LinkedIn** → search `shlok-verma-2a9693179`
 
----
-
-## 🌐 Domain Strategy
-
-```
-shlokverma.dev          → This portfolio (Vercel, free)
-auth.shlokverma.dev     → DevSecureAuth JWT SaaS
-```
-
-**Buy:** Namecheap (~₹800/yr) · **Deploy:** Vercel (free tier)
-<<<<<<< HEAD
-=======
->>>>>>> ece08c0 (interactive design)
->>>>>>> 4bd079e (revised version)
