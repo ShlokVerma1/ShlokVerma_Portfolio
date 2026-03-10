@@ -72,13 +72,3 @@ src/
 | Font Mono | JetBrains Mono |
 
 ---
-
-## 🔧 Customize
-
-- **Your name / headline** → `src/sections/HeroSection.jsx`
-- **Projects** → `src/sections/ProjectsSection.jsx` (edit the `projects` array)
-- **Skills** → `src/sections/SkillsSection.jsx` (edit the `skills` array)
-- **WhatsApp number** → search `916200773310`, replace with yours
-- **Email** → search `vermaslok.k@gmail.com`
-- **LinkedIn** → search `shlok-verma-2a9693179`
-
